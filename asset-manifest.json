@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_W3School_header_login/static/css/main.531fb7b0.css",
+    "main.js": "/React_W3School_header_login/static/js/main.2a552f67.js",
+    "static/js/787.ee666c5e.chunk.js": "/React_W3School_header_login/static/js/787.ee666c5e.chunk.js",
+    "index.html": "/React_W3School_header_login/index.html",
+    "main.531fb7b0.css.map": "/React_W3School_header_login/static/css/main.531fb7b0.css.map",
+    "main.2a552f67.js.map": "/React_W3School_header_login/static/js/main.2a552f67.js.map",
+    "787.ee666c5e.chunk.js.map": "/React_W3School_header_login/static/js/787.ee666c5e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.531fb7b0.css",
+    "static/js/main.2a552f67.js"
+  ]
+}
