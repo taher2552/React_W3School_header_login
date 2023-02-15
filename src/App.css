@@ -7,6 +7,26 @@
   pointer-events: none;
 }
 
+
+.btn:hover{
+  
+  color:white;
+  background-color: green !important;
+}
+
+.fa{
+  margin-left: 5px;
+}
+
+.fa-adjust, .fa-globe{
+  margin-right: -50px;
+  cursor: pointer;
+}
+
+.fa-search{
+  cursor: pointer;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -27,6 +47,10 @@
 .App-link {
   color: #61dafb;
 }
+
+
+
+
 
 @keyframes App-logo-spin {
   from {
